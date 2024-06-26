@@ -5,6 +5,7 @@ This repo aims to give a simplified yet comprehensive guide on how to load data 
 It also provides a simple `locally-hosted API endpoint` for testing purposes.
 
 ![An Illustration of Incremental Data Loading](./img/incremental_loading_illustration.gif)
+*© Image by Author*
 
 ## PART 1: Deploy a GET API endpoint yourself for testing purposes
 In the process of developing a script to extract data from an API, you may want to test your script with a locally-hosted API endpoint. It is so much easier and faster to debug.
@@ -99,4 +100,4 @@ python grocery_pipeline.py
 Go here to read the full tutorial.
 
 ![Incremental Data Loading with dlt](./img/incremental_loading_dlt_anatomy.gif)
-
+*© Image by Author*
