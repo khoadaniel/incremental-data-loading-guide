@@ -1,0 +1,4 @@
+psycopg2-binary
+dlt[postgres]
+sqlalchemy
+pandas

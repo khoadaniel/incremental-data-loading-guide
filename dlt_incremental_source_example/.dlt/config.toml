@@ -1,0 +1,8 @@
+initial_value_created_after = "2024-01-01"
+account_numbers = [1, 2]
+
+[runtime]
+# the system log level of dlt
+log_level = "WARNING"
+# use the dlthub_telemetry setting to enable/disable anonymous usage data reporting, see https://dlthub.com/docs/telemetry
+dlthub_telemetry = true
