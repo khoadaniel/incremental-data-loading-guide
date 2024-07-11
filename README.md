@@ -4,6 +4,8 @@
 This repo aims to give a simplified yet comprehensive guide on how to load data from APIs incrementally using the `dlt`.
 It also provides a simple `locally-hosted API endpoint` for testing purposes.
 
+Check out the full article published in `Towards Data Science` [here](https://towardsdatascience.com/3-essential-questions-to-address-when-building-an-api-involved-incremental-data-loading-script-03723cad3411).
+
 ![An Illustration of Incremental Data Loading](./img/incremental_loading_illustration.gif)
 *© Image by Author*
 
